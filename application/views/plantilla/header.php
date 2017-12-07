@@ -119,10 +119,10 @@
                     </li>
                     <li class="xn-title">Components</li>
                     <li class="xn-openable">
-                        <a href="#"><span class="fa fa-cogs"></span> <span class="xn-text">UI Kits</span></a>                        
+                        <a href="#"><span class="fa fa-cogs"></span> <span class="xn-text">Proyectos</span></a>                        
                         <ul>
-                            <li><a href="ui-widgets.html"><span class="fa fa-heart"></span> Widgets</a></li>                            
-                            <li><a href="ui-elements.html"><span class="fa fa-cogs"></span> Elements</a></li>
+                            <li><a href="ui-widgets.html"><span class="fa fa-heart"></span> Agregar Proyectos</a></li>                            
+                            <li><a href="ui-elements.html"><span class="fa fa-cogs"></span> Agregar Objetivos</a></li>
                             <li><a href="ui-buttons.html"><span class="fa fa-square-o"></span> Buttons</a></li>                            
                             <li><a href="ui-panels.html"><span class="fa fa-pencil-square-o"></span> Panels</a></li>
                             <li><a href="ui-icons.html"><span class="fa fa-magic"></span> Icons</a><div class="informer informer-warning">+679</div></li>
